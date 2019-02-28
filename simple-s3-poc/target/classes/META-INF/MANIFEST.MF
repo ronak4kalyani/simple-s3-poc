@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: simple-s3-poc
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: ronakkalyani
+Implementation-Vendor-Id: com.poc.s3.amazon
+Build-Jdk: 1.8.0_181
+Implementation-URL: http://projects.spring.io/spring-boot/simple-s3-po
+ c/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+

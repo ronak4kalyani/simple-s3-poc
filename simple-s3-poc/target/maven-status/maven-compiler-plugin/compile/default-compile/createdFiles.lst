@@ -1,0 +1,4 @@
+com/simple/s3/poc/Service.class
+com/simple/s3/poc/AWSs3FileUtility.class
+com/simple/s3/poc/SimpleS3Application.class
+com/simple/s3/poc/AwsS3ClientHelper.class
